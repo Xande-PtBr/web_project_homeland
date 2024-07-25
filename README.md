@@ -4,6 +4,6 @@
 
 > Uma jornada épica do Kentucky ao Burundi pelo País de Gales e Ucrânia.
 
-> Tecnologias utilizadas: Site desenvolvido com HTML, CSS e metodologia BEM, responsivo.
+> Tecnologias utilizadas: Site desenvolvido com HTML, CSS e metodologia BEM,Grid , responsividade e @media screen.
 
 > Este projeto faz parte do meu portifólio como aluno na empresa Tripleten.
